@@ -11,13 +11,21 @@ ESSnuSB is a proposed long-baseline neutrino experiment with aim at measuring th
 
 ![ESSnuSB Collaboration](https://essnusb.eu/wp-content/uploads/2025/11/Coll_Slide_2025-1024x576.jpg) Group icture from the Third annual meeting for the ESSnuSB+ project, held on the island of Milos in Greece in September 2025. The ESSnuSB+ project involves more than 90 members from 11 countries across the globe.)
 
+#### Estimating physics potential for atmospheric neutrino analyses via Monte Carlo simulations
+
+As ESSnuSB is currently in its preliminary design study phase, careful analyses are needed to estimate the scientific impact that could be achieved if the experiment was constructed. This can be reached with Monte Carlo simulations, where every step of the complex physics processes that take place are simulated with indeterministic methods. 
+
 #### Resolving neutrino mass ordering and $\theta_{23}^{}$ octant
 
-Atmospheric neutirnos are highly sensitive to physics effects that emerge in strong matter effects. In our recent work, which was published in the renowned Journal of High Energy Physics, physics sensitivities were studied for for the ESSnuSB setup by exercising a Monte Carlo simulation study for atmospheric neutrinos at the experiment's far detector. Sensitivities were evaluated for the determination of neutrino mass ordering and octant of the neutrino mixing angle $\theta_{23}^{}$, both of which are outstanding physics question in neutrino physics. The results that were obtained in that study (shown below) indicate significant potential for ESSnuSB to resolve the neutrino mass ordering.
+Atmospheric neutirnos are highly sensitive to physics effects that emerge in strong matter effects. In our recent work, which was published in the renowned Journal of High Energy Physics, physics sensitivities were studied for for the ESSnuSB setup by exercising a Monte Carlo simulation study for atmospheric neutrinos at the experiment's far detector. Sensitivities were evaluated for the determination of neutrino mass ordering and octant of the neutrino mixing angle $\theta_{23}^{}$, both of which are outstanding physics question in neutrino physics. The results that were obtained in that study (shown below) indicate significant potential for ESSnuSB to resolve the neutrino mass ordering. It was shown that ESSnuSB could resolve neutrin mass ordering by more than 5$\sigma$ CL after 10 years of data taking. The results of this work were published in JHEP 10 (2024) 187.
 
 ![JHEP10 (2024) 187](Excerpt_from_JHEP10(2024)187.png "Sensitivity to rule out wrong neutrino mass ordering (left panel) or $\theta_{23}^{}$ octant (right panel) by studying atmospheric neutrinos at the ESSnuSB far detector. Reproduced from JHEP 10 (2024) 187.")
 
 #### Effect of New Physics in mass ordering and octant measurements
+
+Physicists have long wondered if neutrinos have intereactions beyond to those that are predicted by the Standard Model of particle physics. Such non-trivial interactions are often called as non-standard interactions (NSI) of neutrinos. Non-standard interactions have been sought in existing neutrino oscillation data, yet no decisive evidence has been found. The uncertainty on our knowledge on neutrino interactions also influence the ability to determine convenitional physics observables, including the previously mentioned neutrino mass ordering an $\theta_{23}^{}$ octant. The effect of varying NSI parameters was carefully studied in our latest work, which was recently accepted for publication in Journal of High Energy Physics.
+
+
 
 ![JHEPXX (2026) XXX](Excerpt_from_JHEP0x(2026)xxx.png "Effect of non-standard interactions in the determination of neutrino mass ordering, which would be studied by analysing atmospheric neutrino data from the ESSnuSB far detector. Presented are the sensitivities obtained by varying off-diagonal (left panel) or on-diagonal (right panel) parameters. To appear in JHEP.")
 
