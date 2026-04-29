@@ -13,8 +13,12 @@ ESSnuSB is a proposed long-baseline neutrino experiment with aim at measuring th
 
 #### Resolving neutrino mass ordering and $\theta_{23}^{}$ octant
 
-To be added...
+Atmospheric neutirnos are highly sensitive to physics effects that emerge in strong matter effects. In our recent work, which was published in the renowned Journal of High Energy Physics, physics sensitivities were studied for for the ESSnuSB setup by exercising a Monte Carlo simulation study for atmospheric neutrinos at the experiment's far detector. Sensitivities were evaluated for the determination of neutrino mass ordering and octant of the neutrino mixing angle $\theta_{23}^{}$, both of which are outstanding physics question in neutrino physics. The results that were obtained in that study (shown below) indicate significant potential for ESSnuSB to resolve the neutrino mass ordering.
+
+![JHEP10 (2024) 187](Excerpt_from_JHEP10(2024)187.png "Sensitivity to rule out wrong neutrino mass ordering (left panel) or $\theta_{23}^{}$ octant (right panel) by studying atmospheric neutrinos at the ESSnuSB far detector. Reproduced from JHEP 10 (2024) 187.")
 
 #### Effect of New Physics in mass ordering and octant measurements
 
-To be added...
+![JHEPXX (2026) XXX](Excerpt_from_JHEP0x(2026)xxx.png "Effect of non-standard interactions in the determination of neutrino mass ordering, which would be studied by analysing atmospheric neutrino data from the ESSnuSB far detector. Presented are the sensitivities obtained by varying off-diagonal (left panel) or on-diagonal (right panel) parameters. To appear in JHEP.")
+
+![JHEPYY (2026) YYY](Excerpt_from_JHEP0y(2026)yyy.png "Correlation of $\theta_{23}^{}$ octant determination potential at the ESSnuSB experiment in presence of non-standard interactions. Considered are off-diagonal (left panel) and on-diagonal (right panel) parameters. The results will appear in JHEP soon.")
