@@ -28,8 +28,11 @@ Physicists have long wondered if neutrinos have intereactions beyond to those th
 
 ![JHEPXX (2026) XXX](Excerpt_from_JHEP0x(2026)xxx.png "Effect of non-standard interactions in the determination of neutrino mass ordering, which would be studied by analysing atmospheric neutrino data from the ESSnuSB far detector. Presented are the sensitivities obtained by varying off-diagonal (left panel) or on-diagonal (right panel) parameters. To appear in JHEP.")
 
+In the first study, the effects of having NSI in neutrino oscillations were investigated on the sensitivity to neutrino mass ordering. As the super-beam program of ESSnuSB is not particularly sensitive to matter effects, the ability to discern normal and inverted orderings are expected to come entirely from observing atmospheric neutrinos at the ESSnuSB far detector. By simulating non-standard physics in atmospheric neutrino oscillations via the in-house written data-analysis software, the effect of varying each NSI parameter was evaluated in the total neutrino mass ordering sensitivity. As the resuts indicate, NSI effects can severely alter the sensitivity to neutrino mass ordering.
 
 ![JHEPYY (2026) YYY](Excerpt_from_JHEP0y(2026)yyy.png "Correlation of $\theta_{23}^{}$ octant determination potential at the ESSnuSB experiment in presence of non-standard interactions. Considered are off-diagonal (left panel) and on-diagonal (right panel) parameters. The results will appear in JHEP soon.")
+
+In the second study, the impact of simulating non-standard physics was studied in the sensitivity to $\theta_{23}^{}$ octant. Similarly to the neutrino mass ordering case, the effect of varying NSI parameters was included by simulating new physics in neutrino oscillations. The effect of each NSI parameter is shown in the displayed figure.
 
 #### Contact information
 
