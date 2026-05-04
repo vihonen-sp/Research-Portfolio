@@ -9,11 +9,12 @@ Atmospheric neutrinos are neutrinos that are created in cosmic-ray interactions 
 ### About the ESSnuSB experiment
 ESSnuSB is a proposed long-baseline neutrino experiment with aim at measuring the leptonic CP phase $\delta_{\rm CP}^{}$ at the second oscillation maximum. The experimental setup includes a high-power proton linac at the European Spallation Source (ESS) facility near Lund, Sweden, which is capable of generating ultra-pure muon neutrino and muon antineutrino beams at 5MW average power. A large neutrino degector based on two cylindrical Water Cherenkov vessels would be constructed the mine in Zinkgruvan, which is located 360~km away from the ESS laboratory. Combined with next-generation neutrino beam and detector technology, the ESSnuSB setup would provide the most stringent resolution for measuring $\delta_{\rm CP}^{}$. My role in the ESSnuSB collaboration was to direct the physics analyses for atmopsheric neutrinos that would be observed at the ESSnuSB far detector.
 
-![ESSnuSB Collaboration](https://essnusb.eu/wp-content/uploads/2025/11/Coll_Slide_2025-1024x576.jpg) Group icture from the Third annual meeting for the ESSnuSB+ project, held on the island of Milos in Greece in September 2025. The ESSnuSB+ project involves more than 90 members from 11 countries across the globe.)
+![ESSnuSB Collaboration](https://essnusb.eu/wp-content/uploads/2025/11/Coll_Slide_2025-1024x576.jpg) Group picture from the Third annual meeting for the ESSnuSB+ project, held on the island of Milos in Greece in September 2025. The ESSnuSB+ project involves more than 90 members from 11 countries. The project is active 2023-2026.
 
 #### Estimating physics potential for atmospheric neutrino analyses via Monte Carlo simulations
+As ESSnuSB is currently in its preliminary design study phase, careful analyses are needed to estimate the scientific impact that could be achieved if the experiment was constructed. This can be reached with Monte Carlo simulations, where every step of the complex physics processes that take place are simulated with indeterministic methods.
 
-As ESSnuSB is currently in its preliminary design study phase, careful analyses are needed to estimate the scientific impact that could be achieved if the experiment was constructed. This can be reached with Monte Carlo simulations, where every step of the complex physics processes that take place are simulated with indeterministic methods. 
+The simulation of atmospheric neutrinos for the ESSnuSB far detector was carried out with the following procedure. First, a Monte Carlo simulation was performed with the neutrino event generator software *GENIE* and the high-energy physics data analysis framework *ROOT*, both of which are based on the C++ programming language. In order to keep the random fluctuations that arise from using Monte Carlo methodology at controllable levels, neutrino events were generated in very large numbers. This required the use of high performance computing (*HPC*) infrastructure. Next, the generated Monte Carlo events were processed by a specialized data-analysis software, which was written in-house by the author. The data-analysis software was written entirely with Python and C languages.
 
 #### Resolving neutrino mass ordering and $\theta_{23}^{}$ octant
 
@@ -25,8 +26,7 @@ Atmospheric neutirnos are highly sensitive to physics effects that emerge in str
 
 Physicists have long wondered if neutrinos have intereactions beyond to those that are predicted by the Standard Model of particle physics. Such non-trivial interactions are often called as non-standard interactions (NSI) of neutrinos. Non-standard interactions have been sought in existing neutrino oscillation data, yet no decisive evidence has been found. The uncertainty on our knowledge on neutrino interactions also influence the ability to determine convenitional physics observables, including the previously mentioned neutrino mass ordering an $\theta_{23}^{}$ octant. The effect of varying NSI parameters was carefully studied in our latest work, which was recently accepted for publication in Journal of High Energy Physics.
 
-
-
 ![JHEPXX (2026) XXX](Excerpt_from_JHEP0x(2026)xxx.png "Effect of non-standard interactions in the determination of neutrino mass ordering, which would be studied by analysing atmospheric neutrino data from the ESSnuSB far detector. Presented are the sensitivities obtained by varying off-diagonal (left panel) or on-diagonal (right panel) parameters. To appear in JHEP.")
+
 
 ![JHEPYY (2026) YYY](Excerpt_from_JHEP0y(2026)yyy.png "Correlation of $\theta_{23}^{}$ octant determination potential at the ESSnuSB experiment in presence of non-standard interactions. Considered are off-diagonal (left panel) and on-diagonal (right panel) parameters. The results will appear in JHEP soon.")
