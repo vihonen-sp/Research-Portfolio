@@ -30,3 +30,9 @@ Physicists have long wondered if neutrinos have intereactions beyond to those th
 
 
 ![JHEPYY (2026) YYY](Excerpt_from_JHEP0y(2026)yyy.png "Correlation of $\theta_{23}^{}$ octant determination potential at the ESSnuSB experiment in presence of non-standard interactions. Considered are off-diagonal (left panel) and on-diagonal (right panel) parameters. The results will appear in JHEP soon.")
+
+#### Contact information
+
+Reach me out through the follwing channels:
+- ORCID: https://orcid.org/0000-0001-7761-2847
+- LinkedIn: https://www.linkedin.com/in/sampsa-vihonen-33400258/
