@@ -36,6 +36,6 @@ In the second study, the impact of simulating non-standard physics was studied i
 
 #### Contact information
 
-Reach me out through the follwing channels:
+Reach me out through the following channels:
 - ORCID: https://orcid.org/0000-0001-7761-2847
 - LinkedIn: https://www.linkedin.com/in/sampsa-vihonen-33400258/
